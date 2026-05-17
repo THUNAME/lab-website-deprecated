@@ -1,1 +1,1 @@
-Sitemap: https://thuname.github.io/lab-website/sitemap.xml
+Sitemap: https://thuname.github.io/lab-website-deprecated/sitemap.xml
