@@ -16,6 +16,23 @@
   orcid: 0009-0009-5310-3920
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/TC.2026.3715854
+  title: 'Miresga: Achieving High-Performance and Reliable Layer-7 Load Balancing
+    with Programmable Switches'
+  authors:
+  - Xiaoyi Shi
+  - Ying Liu
+  - Lin He
+  - Yifan Yang
+  - Jiasheng Zhou
+  - Rongbang Wu
+  - Jinlong E
+  publisher: IEEE Transactions on Computers
+  date: '2026-01-01'
+  link: https://doi.org/hccssw
+  orcid: 0009-0009-5310-3920
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3696410.3714809
   title: 'Miresga: Accelerating Layer-7 Load Balancing with Programmable Switches'
   authors:
@@ -182,6 +199,28 @@
   orcid: 0000-0002-7348-5833
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/TON.2026.3715537
+  title: 'Do Not Fall Into the Trap: Efficiently Discovering IPv6 Fully Responsive
+    Prefixes in the Wild'
+  authors:
+  - Lin He
+  - Chentian Wei
+  - Daguo Cheng
+  - Qilei Yin
+  - Boran Jin
+  - Zhaoan Wang
+  - Xiaoteng Pan
+  - Sixu Zhou
+  - Ying Liu
+  - Shenglin Zhang
+  - Fuchao Tan
+  - Wenmao Liu
+  publisher: IEEE Transactions on Networking
+  date: '2026-01-01'
+  link: https://doi.org/hccssx
+  orcid: 0000-0002-7348-5833
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3730567.3768591
   title: 'Poster: TopoHunter: Enabling Efficient and High-Coverage Active IPv6 Topology
     Discovery'
@@ -240,7 +279,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TNET.2024.3491314
-  title: '<i>PMap</i>: Reinforcement Learning-Based Internet-Wide Port Scanning'
+  title: "<i>PMap</i>\n                    : Reinforcement Learning-Based Internet-Wide\
+    \ Port Scanning"
   authors:
   - Guanglei Song
   - Lin He
@@ -293,8 +333,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TMC.2022.3183118
-  title: '<i>AutoIoT</i>: Automatically Updated IoT Device Identification With Semi-Supervised
-    Learning'
+  title: "<i>AutoIoT</i>\n                    : Automatically Updated IoT Device Identification\
+    \ With Semi-Supervised Learning"
   authors:
   - Linna Fan
   - Lin He
